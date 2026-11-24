@@ -1,2 +1,3 @@
-aimport stuff
+import stuff
+import numpy as np
 
